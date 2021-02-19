@@ -1,4 +1,4 @@
-export default class token {
+export class token {
     constructor() {
         
     }

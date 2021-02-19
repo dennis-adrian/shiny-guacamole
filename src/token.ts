@@ -1,5 +1,4 @@
-export default class Token {
-    constructor() {
-        
-    }
+export enum Token {
+    'X',
+    'O'
 }
